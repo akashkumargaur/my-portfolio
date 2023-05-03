@@ -21,8 +21,8 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import Course from  './Course.png';
-import ECommerce from './ECommerce.png'
+import Course from  './Course.PNG';
+import ECommerce from './ECommerce.PNG'
 
 import APS from "./institute/APS.png";
 import subhod from "./institute/subhod_logo.png";
