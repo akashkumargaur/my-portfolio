@@ -22,7 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import course from  './course-1.png';
-import ecommerce from './ecommerce.png'
+import ecommerce from './ecommerce-1.png'
 
 import aPS from "./institute/APS.png";
 import subhod from "./institute/subhod_logo.png";
