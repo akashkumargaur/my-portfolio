@@ -20,9 +20,9 @@ import {
     jobit,
     tripguide,
     threejs,
-    APS,
-    Course,
-    ECommerce
+    aPS,
+    course,
+    ecommerce
   } from "../assets";
   
   export const navLinks = [
@@ -138,7 +138,7 @@ import {
     {
       title: "12th",
       company_name: "Army Public School ,jaipurify",
-      icon: APS,
+      icon: aPS,
       iconBg: "#383E56",
       date: " 2017 - 2018",
       points: [
@@ -148,7 +148,7 @@ import {
     {
       title: "10th",
       company_name: "Army Public School ,jaipur",
-      icon: APS,
+      icon: aPS,
       iconBg: "#E6DEDD",
       date: " 2015 - 2016",
       points: [
@@ -176,7 +176,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: Course,
+      image: course,
       source_code_link: "https://github.com/",
     },
     {
