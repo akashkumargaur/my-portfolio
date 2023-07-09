@@ -35,9 +35,10 @@ const About = () => {
         >
           I'm a skilled software developer with experience in TypeScript and
           JavaScript, and expertise in frameworks like React, Node.js, and
-          Three.js. I'm a quick learner and collaborate closely with clients to
-          create efficient, scalable, and user-friendly solutions that solve
-          real-world problems. Let's work together to bring your ideas to life!
+          Three.js. I'm a quick learner and problem solver who loves to learn
+          and solve problems. I'm a highly motivated person who is always
+          looking for new challenges with scalable, and user-friendly solutions that solve
+          real-world problems.
         </motion.p>
 
         <div className='mt-20 flex flex-wrap gap-10'>

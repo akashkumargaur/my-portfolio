@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./sign.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -6,6 +6,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import d3logo from "./3dlogo.png"
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -20,9 +21,12 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import resume from "./tech/Resume.pdf";
+import photo from "./photo.png";
 
 import course from  './course-1.png';
-import ecommerce from './ecommerce-1.png'
+import ludo from  './ludo.png';
+import chat from './chatApp.png'
 
 import aPS from "./institute/APS.png";
 import subhod from "./institute/subhod_logo.png";
@@ -57,5 +61,5 @@ export {
   jobit,
   tripguide,
   aPS,subhod,
-  course,ecommerce,
+  course,chat,ludo,photo,d3logo,resume
 };

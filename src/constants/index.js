@@ -22,7 +22,7 @@ import {
     threejs,
     aPS,
     course,
-    ecommerce
+    ludo,chat
   } from "../assets";
   
   export const navLinks = [
@@ -32,11 +32,15 @@ import {
     },
     {
       id: "work",
-      title: "Work",
+      title: "My Education",
     },
     {
       id: "contact",
       title: "Contact",
+    },
+    {
+      id: "resume",
+      title: "resume",
     },
   ];
   
@@ -46,7 +50,7 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "React Js",
       icon: mobile,
     },
     {
@@ -54,7 +58,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Mern Stack",
       icon: creator,
     },
   ];
@@ -65,52 +69,20 @@ import {
       icon: html,
     },
     {
-      name: "CSS 3",
-      icon: css,
-    },
-    {
       name: "JavaScript",
       icon: javascript,
-    },
-    {
-      name: "TypeScript",
-      icon: typescript,
     },
     {
       name: "React JS",
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
-    {
-      name: "Tailwind CSS",
-      icon: tailwind,
-    },
-    {
       name: "Node JS",
       icon: nodejs,
     },
     {
-      name: "MongoDB",
-      icon: mongodb,
-    },
-    {
-      name: "Three JS",
-      icon: threejs,
-    },
-    {
       name: "git",
       icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
     },
   ];
   
@@ -172,17 +144,17 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "chakra UI",
           color: "pink-text-gradient",
         },
       ],
       image: course,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/akashkumargaur/sampleCourse",
     },
     {
-      name: "Job IT",
+      name: "Ludo",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web application that enables users to search for challenges created by other user and accept other user challenges with there personal profile and balance ",
       tags: [
         {
           name: "react",
@@ -197,20 +169,20 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: ludo,
+      source_code_link: "https://github.com/akashkumargaur/ludo",
     },
     {
-      name: "Trip Guide",
+      name: "server group chat",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Create server into a group chat using socket.io and send message to all users in group chat. Takes input user name while opening a page and display chat",
       tags: [
         {
-          name: "nextjs",
+          name: "html",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "node js",
           color: "green-text-gradient",
         },
         {
@@ -218,8 +190,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: chat,
+      source_code_link: "https://github.com/akashkumargaur/Chat-Room",
     },
   ];
   
